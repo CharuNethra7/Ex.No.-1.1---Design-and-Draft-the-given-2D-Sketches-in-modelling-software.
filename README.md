@@ -43,6 +43,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+![Screenshot 2024-03-29 170448](https://github.com/CharuNethra7/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/143937317/7bc14e96-9579-4a2b-9988-e8de42738f38)
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
